@@ -2,7 +2,7 @@
 /** 
  * main - print the string in the put function
  * Description: using the main function
- * this program prints "Program is like building a multilingual puzzle
+ * this program prints "Programming is like building a multilingual puzzle
  * Return: Function returns 0
  */
 int main(void)
