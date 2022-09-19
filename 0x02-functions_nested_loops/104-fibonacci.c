@@ -6,7 +6,7 @@
  * Return: 0
  */
 
-intmain(void)
+int main(void)
 {
 	unsigned long int i, bef = 1, aft = 2, 1 = 1000000000;
 	unsigned long int bef1, bef2, aft1, aft2;
