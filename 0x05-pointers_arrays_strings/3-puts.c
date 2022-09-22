@@ -14,10 +14,10 @@ void _puts(char *str)
 	{
 		if (str[count] == '\0')
 		{
-			_putchar('\0');
+			putchar('\0');
 			break;
 		}
-		_putchar(str[count]);
+		putchar(str[count]);
 		count++;
 	}
 }
