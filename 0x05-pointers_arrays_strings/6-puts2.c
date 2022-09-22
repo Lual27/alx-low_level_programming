@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * puts2 - prints one char out of two of a string
  * @str: The string containing characters
