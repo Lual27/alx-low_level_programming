@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * _strcat - functionn to concantenate two strings
  * @dest: parameter pointer to a char
