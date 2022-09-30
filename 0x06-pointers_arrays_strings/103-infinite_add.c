@@ -1,15 +1,20 @@
 #include "main.h"
-<<<<<<< HEAD
-=======
 /**
- * infinite_add -  adds two numbers
- * @n1: first number
- * @n2: second number
- * @r: result
- * @size_r: result lenght
- * Return: sum
+ * infinite_add -  function that adds two numbers.
+ * @n1: pointer to first number.
+ * @n2: pointer to second number
+ * @r: pointer to buffer that stores the result.
+ * @size_r: size of the buffer.
+ *
+ * You can assume that you will always get positive numbers, or 0.
+ * You can assume that there will be only digits in the strings n1 and n2.
+ * n1 and n2 will never be empty.
+ * If the result can not be stored in r the function must return 0.
+ *
+ * Return: A pointer to the result.
  *
  */
+
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
 
 {
@@ -53,4 +58,3 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
 	}
 	return (r);
 }
->>>>>>> 4e617b6f973963175ffc64e3516eb78766da3073
