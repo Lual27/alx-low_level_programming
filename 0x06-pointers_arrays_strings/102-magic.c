@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-=======
 int main(void)
 {
   int n;
@@ -22,4 +19,3 @@ int main(void)
   printf("a[2] = %d\n", a[2]);
   return (0);
 }
->>>>>>> b9ee776a3e3b564d693ff7ebf37b7ae3ba12f357
