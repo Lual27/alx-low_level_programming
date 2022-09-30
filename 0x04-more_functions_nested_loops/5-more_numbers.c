@@ -24,4 +24,3 @@ void more_numbers(void)
 		_putchar('\n');
 	}
 }
->>>>>>> 2e19ae17584f19341bdc46e5d393fa55e424e70e
