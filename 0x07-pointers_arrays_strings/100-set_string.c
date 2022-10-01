@@ -1,19 +1,16 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
-<<<<<<< HEAD
- *  * set_string - Sets the value of a pointer to a char
- *   * 
- *    * @s: The pointer
- *     * @to: The cha
-=======
- * set_string - Sets the value of a pointer to a char
- * 
- * @s: The pointer
- * @to: The char
+ * set_string - function that sets the value of a pointer to a char.
+ * of a square matrix of integers.
+ * @s: pointer to change.
+ * @to: pointer to change to.
+ *
+ * Return: no return.
  */
->>>>>>> 5c558ab599f939920e17744525931781b32708e4
+
 void set_string(char **s, char *to)
 {
-    *s = to;
+	*s = to;
 }
