@@ -2,11 +2,10 @@
 #include <stdio.h>
 
 /**
- * print_chessboard - Function that prints the chess board.
+ * print_chessboard - function that prints the chess board.
+ * @a: pointer to array of characters.
  *
- * @a: Pointer to array of characters.
- *
- * Return: Void
+ * Return: no return.
  */
 
 void print_chessboard(char (*a)[8])
